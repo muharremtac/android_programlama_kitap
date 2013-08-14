@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/widget60"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical" 
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<TextView android:id="@+id/secilenText"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+	/>
+	
+	<ListView android:id="@+id/listView1"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+	/>
+	
+</LinearLayout>

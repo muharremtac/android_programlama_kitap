@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\JAVA\jdk1.6.0_1764bit" version="1.6.0_17">
+<bootpath>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\resources.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\rt.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\sunrsasign.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\jsse.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\jce.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\charsets.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\JAVA\jdk1.6.0_1764bit\jre" version="1.6.0_17">
+<bootpath>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\resources.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\rt.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\sunrsasign.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\jsse.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\jce.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\charsets.jar"/>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\JAVA\jdk1.6.0_1764bit\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

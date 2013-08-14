@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">location</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="question_enable_gps">Lokasyon bilgiletiniz alınsın mı?</string>
+    <string name="enable_gps">Evet</string>
+    <string name="not_enable_gps">Hayır</string>
+
+</resources>

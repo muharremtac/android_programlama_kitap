@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+android:id="@+id/widget29"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="#ff8fc0eb"
+>
+
+<RelativeLayout 
+android:layout_width="fill_parent"
+android:layout_height="50dip"
+android:layout_gravity="center_vertical|center_horizontal">
+
+<ImageView android:id="@+id/Logo"
+android:layout_centerInParent="true" 
+android:layout_height="wrap_content" 
+android:src="@drawable/demobank" 
+android:layout_width="wrap_content"/>
+</RelativeLayout>
+
+<TableLayout
+android:id="@+id/hesapHisseTitle"
+android:layout_width="fill_parent"
+android:background="#d9ecff"
+android:layout_height="50dip">
+
+<TableRow android:layout_width="fill_parent" 
+android:layout_height="fill_parent"
+android:layout_weight="1"
+android:gravity="center"
+android:layout_gravity="center">
+
+<TextView android:text="@string/hisseSenediAlimLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="20dip" 
+android:textStyle="bold" 
+android:textColor="#3d84da" 
+android:layout_marginTop="3px"/>
+</TableRow>
+
+</TableLayout>	
+
+<TableLayout android:id="@+id/hesapTablo"
+android:layout_width="fill_parent"
+android:stretchColumns="*"
+android:layout_height="wrap_content">
+
+<TableRow android:background="#f0eeee">
+
+<TextView android:text="@string/hisseSenediLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="15dip"
+android:textColor="#3d84da"
+android:width="10dip"
+android:textStyle="bold"
+android:layout_marginTop="3px"/>
+
+<TextView android:id="@+id/hisseSenediText"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="15dip"
+android:textColor="#3d84da"
+android:layout_marginTop="3px"/>
+</TableRow>
+
+<TableRow android:background="#ffffff">
+
+<TextView android:text="@string/sonIslemFiyatiLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="15dip"
+android:textStyle="bold"
+android:textColor="#3d84da"
+android:width="10dip"
+android:layout_marginTop="3px"/>
+
+<TextView android:text="2,70"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="15dip"
+android:textColor="#3d84da"
+android:width="10dip"
+android:layout_marginTop="3px"/>
+
+</TableRow>
+<TableRow android:background="#f0eeee"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content">
+
+<TextView android:text="@string/teklifEdilenFiyatLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textStyle="bold"
+android:textSize="15dip"
+android:textColor="#3d84da"
+android:width="10dip"/>
+
+<Spinner android:id="@+id/fiyatSpinner"
+android:layout_width="wrap_content"
+android:layout_height="52dip" />
+
+
+</TableRow>
+
+<TableRow android:background="#ffffff"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content">
+
+<TextView android:text="@string/islemLotuLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textStyle="bold"
+android:textSize="15dip"
+android:textColor="#3d84da"/>
+
+<EditText android:id="@+id/islemLotuText"
+ android:layout_width="wrap_content"
+ android:singleLine="true"
+ android:numeric="integer"
+ android:layout_height="wrap_content"
+/>
+
+</TableRow>
+
+<TableRow android:background="#f0eeee"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content">
+
+<TextView android:text="@string/seansLabel"
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+android:textSize="15dip"
+android:textStyle="bold"
+android:textColor="#3d84da"/>
+
+<RadioGroup
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical">
+      <RadioButton android:id="@+id/seansGunluk"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textColor="#3d84da"
+          android:checked="true"
+          android:text="Günlük" />
+      <RadioButton android:id="@+id/seans1Seans"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textColor="#3d84da"
+          android:text="1.Seans" />
+      <RadioButton android:id="@+id/seans2Seans"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textColor="#3d84da"
+          android:text="2.Seans" />
+    </RadioGroup>
+
+</TableRow>
+</TableLayout>
+
+<Button android:id="@+id/onayButton"
+android:text="Hisse Al" 
+android:drawableRight="@drawable/next" 
+android:layout_width="fill_parent" 
+android:background="@layout/custom_button"
+android:textColor="#ffffff"
+android:textSize="20dip"
+android:textStyle="bold"
+android:layout_height="80dip"/>
+
+<TableLayout
+android:id="@+id/hesapTablo"
+android:layout_width="fill_parent"
+android:layout_height="65px">
+<TableRow android:layout_width="fill_parent" 
+android:layout_height="fill_parent"
+android:layout_weight="1"
+android:gravity="center"
+android:layout_gravity="center">
+<TextView android:text="@string/copyright"
+android:textStyle="italic"
+android:layout_marginTop="3px"
+android:textColor="#767675"/>
+</TableRow>
+</TableLayout>
+
+</LinearLayout>

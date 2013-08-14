@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity Açmak</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="giris_metni">Giriş metni</string>
+    <string name="metin_bos_olamaz">Metin boş olamaz.</string>
+    <string name="title_activity_iki">İkinci Activity</string>
+    <string name="yeni_activity">Yeni Activity</string>
+    <string name="close">Kapat</string>
+    <string name="message_not_null">Lütfen metin giriniz</string>
+
+</resources>

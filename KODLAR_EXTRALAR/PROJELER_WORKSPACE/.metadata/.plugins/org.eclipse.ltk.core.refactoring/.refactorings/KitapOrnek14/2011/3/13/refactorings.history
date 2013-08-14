@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Pi.java&apos; to &apos;KitapOrnek15/src/com.androidornekler.ornek15&apos;&#x0D;&#x0A;- Original project: &apos;KitapOrnek14&apos;&#x0D;&#x0A;- Destination element: &apos;KitapOrnek15/src/com.androidornekler.ornek15&apos;&#x0D;&#x0A;- Original element: &apos;com.androidornekler.ornek14.Pi.java&apos;" description="Copy compilation unit" destination="=KitapOrnek15/src&lt;com.androidornekler.ornek15" element1="/src&lt;com.androidornekler.ornek14{Pi.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1301136343982" units="1" version="1.0"/>
+</session>

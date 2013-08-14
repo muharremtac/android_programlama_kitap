@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<Button android:id="@+id/dialogButton"
+		android:text="Basit Bir Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	<Button android:id="@+id/alertButton"
+		android:text="Alert Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	
+	<Button android:id="@+id/listAlertButton"
+		android:text="List Alert Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	
+	<Button android:id="@+id/choiceAlertButton"
+		android:text="Seçim List Alert Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	
+	<Button android:id="@+id/progressDialogButton"
+		android:text="Progress Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	
+	<Button android:id="@+id/datePickerButton"
+		android:text="DatePicker Dialog"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	/>
+	
+	<TextView android:id="@+id/tarihView"
+	 android:layout_width="fill_parent" 
+	 android:layout_height="wrap_content" 
+	/>
+	
+
+</LinearLayout>

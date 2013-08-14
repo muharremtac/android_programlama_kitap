@@ -1,0 +1,19 @@
+package com.androidornekler.googlemaps;
+
+import android.os.Bundle;
+import android.support.v4.view.ViewPager;
+
+import com.actionbarsherlock.app.SherlockFragmentActivity;
+
+public class MainActivity extends SherlockFragmentActivity {
+
+    ViewPager mViewPager;
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+     }
+
+   
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_activity"
+          android:title="@string/activity_main_menu" />
+    <item android:id="@+id/context_activity"
+          android:title="@string/activity1_menu" 
+          android:icon="@drawable/icon"/>
+</menu>

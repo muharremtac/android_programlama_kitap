@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;map&apos; in &apos;com.androidornekler.googlemap2.MainActivity&apos; to &apos;harita&apos;&#x0D;&#x0A;- Original project: &apos;googlemap2&apos;&#x0D;&#x0A;- Original element: &apos;com.androidornekler.googlemap2.MainActivity.map&apos;&#x0D;&#x0A;- Renamed element: &apos;com.androidornekler.googlemap2.MainActivity.harita&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;map&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.androidornekler.googlemap2{MainActivity.java[MainActivity^map" name="harita" references="true" setter="false" stamp="1366677908436" textual="true" version="1.0"/>
+</session>

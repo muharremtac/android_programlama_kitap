@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kitapornek22</string>
+    <string name="info_log_label">Info log yaz</string>
+    <string name="info_log">Info log yazildi</string>
+    <string name="verbose_log_label">Verbose log yaz</string>
+    <string name="verbose_log">Verbose log yazildi</string>
+    <string name="debug_log_label">Debug log yaz</string>
+    <string name="debug_log">Debug log yazildi</string>
+    <string name="warning_log_label">Warning log yaz</string>
+    <string name="warning_log">Warning log yazildi</string>
+    <string name="error_log_label">Error log yaz</string>
+    <string name="error_log">Error log yazildi</string>
+</resources>

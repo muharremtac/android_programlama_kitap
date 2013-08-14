@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\ANDROID_KITAP_DVD\EXTRA\sherlockornek\.metadata\.plugins\org.eclipse.jdt.core
+2743580797.index
+3941018703.index
+1531412002.index
+387737281.index

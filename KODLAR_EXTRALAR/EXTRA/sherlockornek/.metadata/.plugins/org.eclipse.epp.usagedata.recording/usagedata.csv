@@ -1,0 +1,10 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351175043541
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351175045856
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351176874626
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351176876922
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351176877966
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1351176878189
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1351176878901
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1351176878902
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1351176878904

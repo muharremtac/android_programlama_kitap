@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.android.ide.eclipse.traceview,20.0.0.v201206242043-391819,"com.android.ide.eclipse.traceview",1341660488591
+os,sysinfo,,,"win32",1341660488596
+arch,sysinfo,,,"x86_64",1341660488596
+ws,sysinfo,,,"win32",1341660488596
+locale,sysinfo,,,"en_US",1341660488596
+processors,sysinfo,,,"8",1341660488596
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1341660488596
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1341660488596
+java.specification.name,sysinfo,,,"Java Platform API Specification",1341660488596
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1341660488596
+java.specification.version,sysinfo,,,"1.6",1341660488596
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1341660488596
+java.version,sysinfo,,,"1.6.0_17",1341660488596
+java.vm.info,sysinfo,,,"mixed mode",1341660488596
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1341660488596
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1341660488596
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1341660488596
+java.vm.specification.version,sysinfo,,,"1.0",1341660488596
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1341660488596
+java.vm.version,sysinfo,,,"14.3-b01",1341660488596
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1341660489582
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1341660489655
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1341660489959
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1341660491933
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1341660491997

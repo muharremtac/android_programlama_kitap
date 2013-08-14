@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Demo Bank</string>
+	<string name="hesaplar">Hesaplar</string>
+	<string name="hisselerTitle">Hisseler</string>
+	<string name="hesapNoLabel">Hesap No</string>
+	<string name="turuLabel">Türü</string>
+	<string name="hisseSenediLabel">Hisse Senedi</string>
+	<string name="hisseSenediAlimLabel">Hisse Senedi Alım</string>
+	<string name="sonIslemFiyatiLabel">Son İşlem Fiyatı</string>
+	<string name="teklifEdilenFiyatLabel">Teklif Edilen Fiyat</string>
+	<string name="islemLotuLabel">İşlem Lotu</string>
+	<string name="seansLabel">Seans</string>
+	<string name="hesapNo">2-3405</string>
+	<string name="cari">Cari</string>
+	<string name="copyright">© 2011 M2 Bilişim</string>
+</resources>

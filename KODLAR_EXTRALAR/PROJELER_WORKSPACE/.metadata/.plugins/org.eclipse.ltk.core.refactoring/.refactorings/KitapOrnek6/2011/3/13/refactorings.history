@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.androidornekler.ornek5&apos; to &apos;com.androidornekler.ornek6&apos;&#x0D;&#x0A;- Original project: &apos;KitapOrnek6&apos;&#x0D;&#x0A;- Original element: &apos;KitapOrnek6/gen/com.androidornekler.ornek5&apos;&#x0D;&#x0A;- Renamed element: &apos;KitapOrnek6/gen/com.androidornekler.ornek6&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.androidornekler.ornek5&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/gen&lt;com.androidornekler.ornek5" name="com.androidornekler.ornek6" qualified="false" references="true" stamp="1300807609298" textual="false" version="1.0"/>
+</session>

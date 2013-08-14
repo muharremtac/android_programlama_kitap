@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;smsgosterici.xml&apos; to &apos;main.xml&apos;&#x0D;&#x0A;- Original project: &apos;KitapOrnek5&apos;&#x0D;&#x0A;- Destination element: &apos;main.xml&apos;&#x0D;&#x0A;- Original element: &apos;smsgosterici.xml&apos;" description="Copy file" element1="res/layout/smsgosterici.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1300796666704" target="/KitapOrnek5/res/layout/main.xml" units="0" version="1.0"/>
+</session>

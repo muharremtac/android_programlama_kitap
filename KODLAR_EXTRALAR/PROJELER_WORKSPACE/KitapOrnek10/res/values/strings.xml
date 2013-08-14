@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_ac">Notification Aç</string>
+    <string name="notification_acildi">Notification Açıldı</string>
+    <string name="app_name">kitapornek10</string>
+</resources>

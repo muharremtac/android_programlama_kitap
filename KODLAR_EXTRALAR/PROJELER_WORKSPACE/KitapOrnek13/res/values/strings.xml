@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kitapornek13</string>
+    <string name="menu_text">Bu Activity\'de menü bulunmaktadır</string>
+    <string name="menu_layout_text">Bu Activity\'de layout tasarlanmmış bir menü bulunmaktadır.</string>
+    <string name="context_menu_text">Bu butona uzun basarsanız bir menü açılır.</string>
+    <string name="sub_menu_text">Bu Activity\'de alt menü vardır.</string>
+    <string name="activity_main_menu">Main Activity\'yi Aç</string>
+    <string name="activity1_menu">Activity 1\'i Aç</string>
+    <string name="activity2_menu">Activity 2\'yi Aç</string>
+    <string name="sub_menu">Alt menü</string>
+    <string name="sub_menu1">Alt menü 1</string>
+    <string name="sub_menu2">Alt menü 2</string>
+
+</resources>

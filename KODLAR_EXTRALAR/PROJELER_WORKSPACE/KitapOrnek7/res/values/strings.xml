@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">kitapornek7</string>
+    <string name="buttona_tiklandi">Butona tıklandı</string>
+</resources>

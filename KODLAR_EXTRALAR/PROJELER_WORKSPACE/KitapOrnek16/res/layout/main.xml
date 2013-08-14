@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+		<LinearLayout android:id="@+id/linearLayout1"
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent"
+			android:orientation="horizontal" 
+			android:layout_marginTop="40dip">
+			
+			<TextView android:text="Enlem : " 
+			    android:layout_height="wrap_content"
+				android:layout_width="wrap_content" 
+				android:id="@+id/enlemLabel" android:layout_marginLeft="10dip" 
+				android:layout_marginRight="5dip" 
+				android:textSize="20dip"></TextView>
+			
+			<TextView android:text="Bulunamadı" 
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content" 
+				android:id="@+id/enlemIcerik" android:textSize="20dip"></TextView>
+		</LinearLayout>
+		
+		<LinearLayout android:id="@+id/linearLayout2"
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent">
+			
+			<TextView android:text="Boylam : " 
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content" 
+			android:id="@+id/boylamLabel"
+			android:layout_marginLeft="10dip" 
+			android:layout_marginRight="5dip" 
+			android:textSize="20dip"/>
+			
+			<TextView android:text="Bulunamadı" 
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content" 
+				android:id="@+id/boylamIcerik" 
+				android:textSize="20dip"/>
+	
+		</LinearLayout>
+</LinearLayout>

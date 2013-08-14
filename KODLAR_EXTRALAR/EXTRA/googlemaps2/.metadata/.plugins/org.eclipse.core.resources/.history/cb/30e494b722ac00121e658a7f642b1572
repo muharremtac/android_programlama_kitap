@@ -1,0 +1,27 @@
+package com.androidornekler.googlemaps;
+
+import android.os.Bundle;
+import android.support.v4.view.ViewPager;
+
+import com.actionbarsherlock.app.SherlockFragmentActivity;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
+
+public class MainActivity extends SherlockFragmentActivity {
+
+    ViewPager mViewPager;
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        GoogleMap harita = ((MapFragment) getSupportFragmentManager().findFragmentById(R.id.haritaFragment)).getMap();
+        LatLng latLng = new LatLng(41.037032,28.986332);
+	    harita.addMarker(new MarkerOptions().position(latLng).title("Taksim"));
+	    harita.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 15));	
+     }
+
+   
+}

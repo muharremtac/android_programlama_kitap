@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kitapornek5</string>
+    <string name="birinci_activity">Birinci Activity</string>
+    <string name="ikinci_activity">İkinci Activity</string>
+</resources>

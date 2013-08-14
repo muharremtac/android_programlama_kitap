@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="237" key="DIALOG_WIDTH"/>
+		<item value="124" key="DIALOG_Y_ORIGIN"/>
+		<item value="569" key="DIALOG_X_ORIGIN"/>
+		<item value="357" key="DIALOG_HEIGHT"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="com.androidornekler.googlemap2.permission.MAPS_RECEIVE" key="selection"/>
+		<list key="findhistory">
+			<item value="com.androidornekler.googlemap2.permission.MAPS_RECEIVE"/>
+			<item value="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+			<item value="com.androidornekler.googlemap2"/>
+			<item value="com.vogella.android.locationapi.maps.permission"/>
+			<item value="yanitMetni"/>
+			<item value="mesaj"/>
+			<item value="MyLocationOverlay"/>
+			<item value="myLocationOverlay"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Renk seçiniz"/>
+			<item value="&quot;"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;menu&apos; to &apos;res&apos;&#x0D;&#x0A;- Original project: &apos;KitapOrnek13&apos;&#x0D;&#x0A;- Destination element: &apos;res&apos;&#x0D;&#x0A;- Original element: &apos;menu&apos;" description="Copy folder" element1="res/menu" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1366672970527" target="/activity_acmak/res" units="0" version="1.0"/>
+</session>

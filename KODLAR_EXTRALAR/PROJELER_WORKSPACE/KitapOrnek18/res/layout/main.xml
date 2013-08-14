@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <Button android:text="Dosyaya Yaz" 
+    	android:id="@+id/dosyayaYaz" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content"/>
+    	
+    <Button android:text="Dosyayı Oku" 
+    	android:id="@+id/dosyadanOku" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content"/>
+    
+    <EditText android:id="@+id/eklenecekMetin"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"/>
+    	
+    <TextView android:id="@+id/yazilanMetin"
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content"/>
+    	
+</LinearLayout>

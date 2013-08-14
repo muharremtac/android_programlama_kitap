@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<EditText 
+		android:id="@+id/isimText" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<EditText 
+		android:id="@+id/yasText" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<Button android:text="Kayıt Ekle" 
+		android:id="@+id/ekleButton"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"/>
+		
+	<Button android:text="Kayıt Göster" 
+		android:id="@+id/kayitGosterButton"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"/>
+		
+	<TextView android:id="@+id/kayitlar"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"/>
+
+</LinearLayout>

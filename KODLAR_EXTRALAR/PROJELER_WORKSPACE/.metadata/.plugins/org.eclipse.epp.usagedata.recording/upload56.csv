@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.cut",1301150275582
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150277018
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150280633
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150284180
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150286981
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150289411
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150295505
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296012
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296046
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296087
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296132
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296167
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296205
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296244
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296290
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296327
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296375
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296409
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296451
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296492
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296529
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296571
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296609
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296648
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296684
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296729
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296769
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296809
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296853
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296889
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296931
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150296971
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297010
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297046
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297090
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297130
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297172
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297211
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297560
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150297891
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150302321
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150303029
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150303904
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150305435
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150306099
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150306490
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150307212
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150308997
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309018
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309036
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309056
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309076
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309091
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309107
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309123
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309141
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309324
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309339
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309356
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309372
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309385
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309398
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309411
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309425
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150309438
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150312952
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1301150315230
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150337594
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150340002
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340204
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340221
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340241
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340264
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340278
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340292
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340310
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340325
+error,log,,,"main.xml: Failed to convert @layout/custom_button into a drawable",1301150340340
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150340751
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150345388
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150348774
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150352307
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150355031
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150358179
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150361038
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150362055
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150387716
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150387889
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150392204
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150395178
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150404724
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150407864
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408358
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408411
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408438
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408484
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408518
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408566
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408596
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408645
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408679
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408724
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408754
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408805
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408836
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408881
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408920
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408961
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150408996
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150409042
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150409076
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150409463
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150410865
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150411169
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150411363
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150411584
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150411743
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150411897
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150412084
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150412260
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150412719
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150413064
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150413405
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150414195
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150415538
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150424541
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150425271
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150429252
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1301150432674
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150433412
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150433944
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150441562
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150443520
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findPrevious",1301150443879
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150444692
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150445000
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150445235
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150445464
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150445695
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150446013
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150446320
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301150446658
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.undo",1301150447656
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150448562
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150450614
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150450749
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150474044
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150489712
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150491138
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150493887
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150496159
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150498123
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150499143
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150499196
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150500095
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150504077
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150505387
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150506151
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150507594
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150508616
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150508727
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150511511
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150514885
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150517112
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150518162
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301150518211
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150521770
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150522899
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150523779
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150524934
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150525732
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150526879
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1301150531928
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150546917
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150575099
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150659728
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150662351
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150664251
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150742790
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150745317
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150757765
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150760794
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150762384
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150765412
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150766331
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150777210
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150778176
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150830999
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150849734
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150855051
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150856522
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301150880884
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301150884917
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150885601
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150894616
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150895905
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150929118
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301150942106
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150944640
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150967336
+activated,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.ContentOutline",1301150969787
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301150975534
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301150975849
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151041186
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301151045704
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151046690
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151057462
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151058859
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151069624
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151072938
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151085998
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151093028
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1301151093801
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1301151098624
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1301151098949
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1301151099232
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1301151099401
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1301151099572
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151099781
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301151100840
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151101781
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151101910
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102045
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102184
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102335
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102484
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102640
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102818
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151102973
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1301151103142
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301151105031
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.findNext",1301151106076
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1301151109843
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301151110911
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301151111781
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301151138236
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301151155220
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301151156929
+activated,editor,com.android.ide.eclipse.adt,10.0.0.v201102162101-104271,"com.android.ide.eclipse.editors.layout.LayoutEditor",1301151157943
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151162671
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151175219
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301151176167
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151182056
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301151182794
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordPrevious",1301151189864
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.paste",1301151190596
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1301151191612
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301151197926
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1301152049954
+activated,view,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui.PackageExplorer",1301152052638

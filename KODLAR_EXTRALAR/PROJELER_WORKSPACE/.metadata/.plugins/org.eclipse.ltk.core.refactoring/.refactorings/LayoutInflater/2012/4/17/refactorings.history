@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;tablo&apos; in &apos;com.m2.android.ab2012.layoutinflater.MainActivity&apos; to &apos;table&apos;&#x0D;&#x0A;- Original project: &apos;LayoutInflater&apos;&#x0D;&#x0A;- Original element: &apos;com.m2.android.ab2012.layoutinflater.MainActivity.tablo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.m2.android.ab2012.layoutinflater.MainActivity.table&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;tablo&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.m2.android.ab2012.layoutinflater{MainActivity.java[MainActivity^tablo" name="table" references="true" setter="false" stamp="1335628023796" textual="false" version="1.0"/>
+</session>

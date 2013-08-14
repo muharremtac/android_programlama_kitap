@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_activity"
+          android:title="@string/activity_main_menu" />
+    <item android:id="@+id/context_activity"
+        android:icon="@drawable/icon"
+          android:title="@string/sub_menu">
+	     <menu>
+		    <item android:id="@+id/main_activity"
+		          android:title="@string/sub_menu1" />
+		    <item android:id="@+id/context_activity"
+		          android:title="@string/sub_menu2" />
+	     </menu>
+    </item>      
+</menu>

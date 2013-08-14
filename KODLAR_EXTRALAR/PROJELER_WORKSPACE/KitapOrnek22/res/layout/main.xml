@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button 
+	android:id="@+id/infoLogButton"	
+	android:text="@string/info_log_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+<Button 
+	android:id="@+id/verboseLogButton"	
+	android:text="@string/verbose_log_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+<Button 
+	android:id="@+id/debugLogButton"	
+	android:text="@string/debug_log_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+
+<Button 
+	android:id="@+id/warningLogButton"	
+	android:text="@string/warning_log_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+<Button 
+	android:id="@+id/errorLogButton"	
+	android:text="@string/error_log_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+</LinearLayout>

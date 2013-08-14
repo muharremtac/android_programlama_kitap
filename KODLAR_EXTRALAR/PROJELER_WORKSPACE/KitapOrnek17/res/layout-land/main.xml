@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/ustLinearLayout"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical" 
+	android:weightSum="3"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<LinearLayout android:id="@+id/icLinearLayout1"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="horizontal" 
+	android:layout_weight="1"
+	android:weightSum="2">
+	
+	<Button 
+		android:id="@+dialogactivity/button1"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="1"	
+	/>
+	
+	<Button 
+		android:id="@+dialogactivity/button2"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="2"	
+	/>
+
+</LinearLayout>	
+
+<LinearLayout android:id="@+id/icLinearLayout2"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="horizontal" 
+	android:layout_weight="1"
+	android:weightSum="2">
+	
+	<Button 
+		android:id="@+dialogactivity/button3"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="3"	
+	/>
+	
+	<Button 
+		android:id="@+dialogactivity/button4"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="4"	
+	/>
+			
+</LinearLayout>	
+
+<LinearLayout android:id="@+id/icLinearLayout3"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="horizontal" 
+	android:layout_weight="1"
+	android:weightSum="2">
+	
+	<Button 
+		android:id="@+dialogactivity/button5"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="5"	
+	/>
+	
+	<Button 
+		android:id="@+dialogactivity/button6"
+		android:layout_width="0dip"
+		android:background="@layout/custom_button"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:text="6"	
+	/>
+			
+</LinearLayout>	
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+D:\workspaces\android\googlemaps2\.metadata\.plugins\org.eclipse.jdt.core
+2951649612.index
+2495647476.index
+1531412002.index
+1604832810.index
+848856923.index
+1460274950.index
+3484560391.index
+1282792792.index
+1827509422.index

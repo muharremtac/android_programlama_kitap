@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button
+	android:id="@+id/kontakGetirButton"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/kontak_getir"
+    />
+  
+<TextView    
+	android:id="@+id/kisiAdi"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+/>
+	  
+<TextView    
+	android:id="@+id/kisiTelefon"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+/>
+
+<Button
+	android:id="@+id/kontakEkleButton"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/kontak_ekle"
+    />
+<EditText android:id="@+id/eklenecekIsim" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+
+<EditText android:id="@+id/eklenecekTelNo" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+
+<Button
+	android:id="@+id/kontakGuncelleButton"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/kontak_guncelle"
+    />        
+
+<Button
+	android:id="@+id/kontakSilButton"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/kontak_sil"
+    />    
+    
+
+</LinearLayout>

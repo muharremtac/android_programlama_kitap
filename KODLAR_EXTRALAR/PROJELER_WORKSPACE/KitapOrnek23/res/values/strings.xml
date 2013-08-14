@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kitapornek23</string>
+    <string name="kontak_getir">Kontak Bilgisi Getir</string>
+    <string name="kontak_ekle">Kontak Bilgisi Ekle</string>
+    <string name="kontak_guncelle">Kontak Bilgisi Güncelle</string>
+    <string name="kontak_sil">Kontak Bilgisi Sil</string>
+</resources>
